@@ -1,3 +1,5 @@
+Hi I'm Zack, I've been programming for over 5 years now. I gained my foundational programming knowledge through a Microsoft Bootcamp and have worked a variety of jobs in the industry from Genertaing Websites to Data Analytics to Working in the Backend of a Database at a Startup Company. I've also spent alot of time teaching myself through tutorials, reading textbooks and creating applications. I hope you find this repository Useful, let me know if there's anything you need and im always open to collaborate on interesting projects.  
+
 
 ![GitHubBanner](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/092062be-76eb-46e7-945e-0c0867394758)
 
