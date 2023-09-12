@@ -3,6 +3,13 @@ Hi I'm Zack, I've been programming for over 5 years now. I gained my foundationa
 
 ![GitHubBanner](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/092062be-76eb-46e7-945e-0c0867394758)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bootstrap,cs,css,dotnet,html,js,nodejs,postman,powershell,react,sass
+      " />
+  </a>
+</p>
+
 <!--**AltomDevelopment/AltomDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
