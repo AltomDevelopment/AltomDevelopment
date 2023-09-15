@@ -42,17 +42,17 @@ I'm Zack, Welcome to My Github
 			
 ### **Add_Ons** :gem:
 			
-1.**ExampleProjectUsingAdd_Ons** :round_pushpin:
-2.**TemplateToBuildYourOwn** :round_pushpin:
-3.**Chat_Bots** :round_pushpin:
-4.**MicroServices** :round_pushpin:
-5.**SignalR_Messaging** :round_pushpin:
+1. **ExampleProjectUsingAdd_Ons** :round_pushpin:
+2. **TemplateToBuildYourOwn** :round_pushpin:
+3. **Chat_Bots** :round_pushpin:
+4. **MicroServices** :round_pushpin:
+5. **SignalR_Messaging** :round_pushpin:
 
 ### **RazorPageTemplates** :gem:
             
-1.**Templates** :round_pushpin:
-2.**CSS_UsedInTemplates** :round_pushpin:
-3.**JS_UsedInTemplates** :round_pushpin:
+1. **Templates** :round_pushpin:
+2. **CSS_UsedInTemplates** :round_pushpin:
+3. **JS_UsedInTemplates** :round_pushpin:
 				
 ## **.NET MUAI** :earth_americas:
 
@@ -75,11 +75,11 @@ I'm Zack, Welcome to My Github
 //README.md
 
 ## **Useful Queries** :earth_americas:
-1.**Basic_Queries** :round_pushpin:
+1. **Basic_Queries** :round_pushpin:
 //README.md
-2.**Advanced_Queries** :round_pushpin:
+2. **Advanced_Queries** :round_pushpin:
 //README.md
-3.**Stored Procedures** :round_pushpin:
+3. **Stored Procedures** :round_pushpin:
 //README.md
 
 ## **UseFul Resources** :earth_americas:
@@ -91,11 +91,11 @@ I'm Zack, Welcome to My Github
 //README.md
 
 ## **Project Setup** :earth_americas:
-1.**Completed_Project_Setup** :round_pushpin:
-2.**ExampleProject** :round_pushpin:
-3.**React_Hooks** :round_pushpin:
-4.**React_Components** :round_pushpin:
-5.**React_APIs** :round_pushpin:
+1. **Completed_Project_Setup** :round_pushpin:
+2. **ExampleProject** :round_pushpin:
+3. **React_Hooks** :round_pushpin:
+4. **React_Components** :round_pushpin:
+5. **React_APIs** :round_pushpin:
     
 ## **UseFul Resources** :earth_americas:
 //README.md
