@@ -56,9 +56,9 @@ I'm Zack, Welcome to My Github
 				
 ## **.NET MUAI** :earth_americas:
 
-# **Getting_SetUp** :gem:
+### **Getting_SetUp** :gem:
 //README.md (In-Progress)
-# **Useful Resources** :gem:
+### **Useful Resources** :gem:
 //README.md
 
 # **Everything You Need For SQL** :rocket:
