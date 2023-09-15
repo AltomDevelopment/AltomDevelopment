@@ -33,14 +33,14 @@ I'm Zack, Welcome to My Github
 
 ## **ASP.NET Core MVC** :earth_americas:
 
-### **Project_Setup** (Licensed) :gem:
+### **Project_Setup** :gem:
 
 **Completed_Project_Setup** :round_pushpin:
 **Code_First_Database_UsingEntityFramework** :round_pushpin:
 **UserLogin_UserRegistration_UsingIdentity** :round_pushpin:
 **CRUD_Web_API** :round_pushpin:
 			
-### **Add_Ons (Not for Business Use)** :gem:
+### **Add_Ons** :gem:
 			
 **ExmapleProjectUsingAdd_Ons** :round_pushpin:
 **TemplateToBuildYourOwn** :round_pushpin:
@@ -48,7 +48,7 @@ I'm Zack, Welcome to My Github
 **MicroServices** :round_pushpin:
 **SignalR_Messaging** :round_pushpin:
 
-### **RazorPageTemplates (Not for Business Use)** :gem:
+### **RazorPageTemplates** :gem:
             
 **Templates** :round_pushpin:
 **CSS_UsedInTemplates** :round_pushpin:
