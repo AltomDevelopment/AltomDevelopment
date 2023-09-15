@@ -110,8 +110,6 @@ I'm Zack, Welcome to My Github
 
 # **WorkingWith_CMDLine_Powershell_GitBash** :rocket:
 ---
-## **Getting Setup** :earth_americas:
-//README.md
 
 ## **Useful Commands CommandLine** :earth_americas:
 [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20CommandLine)
