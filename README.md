@@ -135,12 +135,11 @@ I'm Zack, Welcome to My Github
 
 # **Completed Projects** :rocket:
 ---
-## **ASP.NET Core MVC** :earth_americas:
-## **ASP.NET Core MVC** :earth_americas:
-## **ASP.NET Core MVC** :earth_americas:
-## **ASP.NET Core MVC** :earth_americas:
-## **ASP.NET Core MVC** :earth_americas:
-## **ASP.NET Core MVC** :earth_americas:
+## **Space_Trader_Project** :earth_americas:
+## **Python Projects** :earth_americas:
+## **CRUD_Web_API** :earth_americas:
+## **ASP.MVC_Core_UserLogin_UserRegistration** :earth_americas:
+## **Morning Joe Reads** :earth_americas:
 
 # **Projects InProgress** :rocket:
 ---
