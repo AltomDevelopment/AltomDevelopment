@@ -142,7 +142,7 @@ I'm Zack, Welcome to My Github
 ## **ASP.NET Core MVC** :earth_americas:
 ## **ASP.NET Core MVC** :earth_americas:
 
-# **Projects InProgress* :rocket:
+# **Projects InProgress** :rocket:
 ---
 ## **ASP.NET Core MVC** :earth_americas:
 ## **ASP.NET Core MVC** :earth_americas:
