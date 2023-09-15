@@ -16,31 +16,31 @@ I'm Zack, Welcome to My Github
 }
 ```
 
-### *Repo Index / Folder Structure* 
+# *Repo Index / Folder Structure* 
 
-### **Everything You Need For .NET** :rocket:
+# **Everything You Need For .NET** :rocket:
 ---
 ## **Setup Your Editors** :earth_americas:
 
-# **Visual_Studio_2022** :gem:
+### **Visual_Studio_2022** :gem:
 //README.md
-# **Visual_Studio_Code** :gem:
+### **Visual_Studio_Code** :gem:
 //README.md
-# **SQLServer2019_SSMS18** :gem:
+### **SQLServer2019_SSMS18** :gem:
 //README.md
-# **ListOfUsefulExtensions_AddOns** :gem:
+### **ListOfUsefulExtensions_AddOns** :gem:
 //README.md
 
 ## **ASP.NET Core MVC** :earth_americas:
----
-# **Project_Setup** (Licensed) :gem:
+
+### **Project_Setup** (Licensed) :gem:
 
 **Completed_Project_Setup** :round_pushpin:
 **Code_First_Database_UsingEntityFramework** :round_pushpin:
 **UserLogin_UserRegistration_UsingIdentity** :round_pushpin:
 **CRUD_Web_API** :round_pushpin:
 			
-# **Add_Ons (Not for Business Use)** :gem:
+### **Add_Ons (Not for Business Use)** :gem:
 			
 **ExmapleProjectUsingAdd_Ons** :round_pushpin:
 **TemplateToBuildYourOwn** :round_pushpin:
@@ -48,7 +48,7 @@ I'm Zack, Welcome to My Github
 **MicroServices** :round_pushpin:
 **SignalR_Messaging** :round_pushpin:
 
-# **RazorPageTemplates (Not for Business Use)** :gem:
+### **RazorPageTemplates (Not for Business Use)** :gem:
             
 **Templates** :round_pushpin:
 **CSS_UsedInTemplates** :round_pushpin:
@@ -61,7 +61,7 @@ I'm Zack, Welcome to My Github
 # **Useful Resources** :gem:
 //README.md
 
-### **>Everything You Need For SQL** :rocket:
+# **Everything You Need For SQL** :rocket:
 ---
 ## **Getting Setup with SQL** :earth_americas:
  //README.md
@@ -85,7 +85,7 @@ I'm Zack, Welcome to My Github
 ## **UseFul Resources** :earth_americas:
 //README.md
 
-### **>Everything You Need For React** :rocket:
+# **Everything You Need For React** :rocket:
 ---
 ## **Getting Setup With React** :earth_americas:
 //README.md
@@ -100,15 +100,15 @@ I'm Zack, Welcome to My Github
 ## **UseFul Resources** :earth_americas:
 //README.md
 
-### **>Everything You Need For Python** :rocket:
+# **Everything You Need For Python** :rocket:
 ---
 //README.md
 
-### **>AI_MachineLearning(Coming_Soonish)** :rocket:
+# **AI_MachineLearning(Coming_Soonish)** :rocket:
 ---
 //README.md
 
-### **>WorkingWith_CMDLine_Powershell_GitBash** :rocket:
+# **WorkingWith_CMDLine_Powershell_GitBash** :rocket:
 ---
 ## **Getting Setup** :earth_americas:
 //README.md
@@ -122,7 +122,7 @@ I'm Zack, Welcome to My Github
 ## **Useful Commands GitBash** :earth_americas:
 //README.md
 
-### **>AddOns_UsefulResources** :rocket:
+# **AddOns_UsefulResources** :rocket:
 ---
 ## **Keyboard Shortcuts** :earth_americas:
 //README.md
@@ -133,7 +133,7 @@ I'm Zack, Welcome to My Github
 ## **Books** :earth_americas:
 //README.md
 
-### **>Completed Projects** :rocket:
+# **Completed Projects** :rocket:
 ---
 ## **ASP.NET Core MVC** :earth_americas:
 ## **ASP.NET Core MVC** :earth_americas:
@@ -142,7 +142,7 @@ I'm Zack, Welcome to My Github
 ## **ASP.NET Core MVC** :earth_americas:
 ## **ASP.NET Core MVC** :earth_americas:
 
-### **>Projects InProgress* :rocket:
+# **Projects InProgress* :rocket:
 ---
 ## **ASP.NET Core MVC** :earth_americas:
 ## **ASP.NET Core MVC** :earth_americas:
