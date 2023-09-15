@@ -20,7 +20,7 @@ I'm Zack, Welcome to My Github
 
 ### **Everything You Need For .NET** :rocket:
 
-    ## **Setup Your Editors** :earth_americas:
+    ##**Setup Your Editors** :earth_americas:
 
          # **Visual_Studio_2022** :gem:
             //README.md
