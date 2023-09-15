@@ -123,7 +123,7 @@ I'm Zack, Welcome to My Github
 # **AddOns_UsefulResources** :rocket:
 ---
 ## **Keyboard Shortcuts** :earth_americas:
-//README.md
+[View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Keyboard%20Shortcuts)
 
 ## **Tools_And_Apps** :earth_americas:
 //README.md
