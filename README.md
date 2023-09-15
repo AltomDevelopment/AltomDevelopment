@@ -19,7 +19,7 @@ I'm Zack, Welcome to My Github
 ### *Repo Index / Folder Structure* 
 
 ### **>Everything You Need For .NET** :rocket:
----
+
     ## **Setup Your Editors** :earth_americas:
 
          # **Visual_Studio_2022** :gem:
@@ -62,7 +62,6 @@ I'm Zack, Welcome to My Github
             //README.md
 
 ### **>Everything You Need For SQL** :rocket:
----
 
     ## **Getting Setup with SQL** :earth_americas:
         //README.md
@@ -87,7 +86,7 @@ I'm Zack, Welcome to My Github
         //README.md
 
 ### **>Everything You Need For React** :rocket:
----
+
     ## **Getting Setup With React** :earth_americas:
         //README.md
 
@@ -102,15 +101,15 @@ I'm Zack, Welcome to My Github
         //README.md
 
 ### **>Everything You Need For Python** :rocket:
----
+
         //README.md
 
 ### **>AI_MachineLearning(Coming_Soonish)** :rocket:
----
+
         //README.md
 
 ### **>WorkingWith_CMDLine_Powershell_GitBash** :rocket:
----
+
     ## **Getting Setup** :earth_americas:
         //README.md
 
@@ -124,7 +123,7 @@ I'm Zack, Welcome to My Github
         //README.md
 
 ### **>AddOns_UsefulResources** :rocket:
----
+
     ## **Keyboard Shortcuts** :earth_americas:
         //README.md
 
@@ -135,7 +134,7 @@ I'm Zack, Welcome to My Github
         //README.md
 
 ### **>Completed Projects** :rocket:
----
+
     ## **ASP.NET Core MVC** :earth_americas:
     ## **ASP.NET Core MVC** :earth_americas:
     ## **ASP.NET Core MVC** :earth_americas:
@@ -144,7 +143,7 @@ I'm Zack, Welcome to My Github
     ## **ASP.NET Core MVC** :earth_americas:
 
 ### **>Projects InProgress* :rocket:
----
+
     ## **ASP.NET Core MVC** :earth_americas:
     ## **ASP.NET Core MVC** :earth_americas:
     ## **ASP.NET Core MVC** :earth_americas:
