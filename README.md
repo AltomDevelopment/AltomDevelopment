@@ -6,7 +6,7 @@ I'm Zack, Welcome to My Github
 
 ```
 {
-    "mainFolder": :milky_way: ,
+    "mainFolder": :rocket: ,
     "subFolderLevel1": :earth_americas: ,
     "subFolderLevel2": :gem: , 
     "subFolderLevel3": :round_pushpin: ,
