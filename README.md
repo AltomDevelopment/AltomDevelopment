@@ -129,7 +129,7 @@ I'm Zack, Welcome to My Github
 //README.md
 
 ## **Books** :earth_americas:
-//README.md
+[View PDFS](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Books)
 
 # **Completed Projects** :rocket:
 ---
