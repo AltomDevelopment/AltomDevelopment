@@ -35,10 +35,10 @@ I'm Zack, Welcome to My Github
 
 ### **Project_Setup** :gem:
 
-1.**Completed_Project_Setup** :round_pushpin:
-2.**Code_First_Database_UsingEntityFramework** :round_pushpin:
-3.**UserLogin_UserRegistration_UsingIdentity** :round_pushpin:
-4.**CRUD_Web_API** :round_pushpin:
+1. **Completed_Project_Setup** :round_pushpin:
+2. **Code_First_Database_UsingEntityFramework** :round_pushpin:
+3. **UserLogin_UserRegistration_UsingIdentity** :round_pushpin:
+4. **CRUD_Web_API** :round_pushpin:
 			
 ### **Add_Ons** :gem:
 			
