@@ -140,11 +140,6 @@ I'm Zack, Welcome to My Github
 ## **CRUD_Web_API** :earth_americas:
 ## **ASP.MVC_Core_UserLogin_UserRegistration** :earth_americas:
 ## **Morning Joe Reads** :earth_americas:
+Will be updating soon...
 
-# **Projects InProgress** :rocket:
----
-## **PartsStore** :earth_americas:
-## **NoteTakingExample** :earth_americas:
-## **CryptoSwapApp** :earth_americas:
-## **SampleWebsite** :earth_americas:
 
