@@ -117,7 +117,7 @@ I'm Zack, Welcome to My Github
 [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20CommandLine)
 
 ## **Useful Commands PowerShell** :earth_americas:
-//README.md
+[View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20PowerShell)
 
 ## **Useful Commands GitBash** :earth_americas:
 //README.md
