@@ -18,7 +18,7 @@ I'm Zack, Welcome to My Github
 
 ### *Repo Index / Folder Structure* 
 
-### **>Everything You Need For .NET** :rocket:
+### **Everything You Need For .NET** :rocket:
 
     ## **Setup Your Editors** :earth_americas:
 
