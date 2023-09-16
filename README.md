@@ -4,6 +4,8 @@ I'm Zack, Welcome to My Github
 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,bootstrap,cs,css,dotnet,html,js,nodejs,postman,powershell,react,sass)](https://skillicons.dev)
 
+# **Repo Contents** 
+
 ```
 {
     "mainFolder": :rocket: ,
@@ -15,8 +17,6 @@ I'm Zack, Welcome to My Github
     "subFolderLevel6": :gem:
 }
 ```
-
-# *Repo Index / Folder Structure* 
 
 # **Everything You Need For .NET** :rocket:
 ---
