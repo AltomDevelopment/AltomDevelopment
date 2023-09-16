@@ -6,18 +6,6 @@ I'm Zack, Welcome to My Github
 
 # **Repo Contents** 
 
-```
-{
-    "mainFolder": :rocket: ,
-    "subFolderLevel1": :earth_americas: ,
-    "subFolderLevel2": :gem: , 
-    "subFolderLevel3": :round_pushpin: ,
-    "subFolderLevel4": :space_invader: ,
-    "subFolderLevel5": :gun: ,
-    "subFolderLevel6": :gem:
-}
-```
-
 # **Everything You Need For .NET** :rocket:
 ---
 ## **Setup Your Editors** :earth_americas:
