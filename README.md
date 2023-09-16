@@ -63,7 +63,7 @@ I'm Zack, Welcome to My Github
 
 ## **Project Setup** :earth_americas:
 1. **Completed_Project_Setup** :round_pushpin:
-2. **ExampleProject** :round_pushpin:
+2. **ExampleProject** :round_pushpin: [View Flowbite Admin Dashboard](https://github.com/AltomDevelopment/Everything-You-Need-For-React-/tree/main/Project%20Setup/ExampleProject/AdminDashboardTailwindTemplateApp)
 3. **React_Hooks** :round_pushpin:
 4. **React_Components** :round_pushpin:
 5. **React_APIs** :round_pushpin:
