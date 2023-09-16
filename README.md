@@ -62,7 +62,7 @@ I'm Zack, Welcome to My Github
 2. **UseFul Resources** :earth_americas: //README.md
 
 ## **Project Setup** :earth_americas:
-1. **Completed_Project_Setup** :round_pushpin: [View Simple React Website App](https://github.com/AltomDevelopment/Everything-You-Need-For-React-/tree/main/Project%20Setup/Completed_Project_Setup/CompleteTailwindTemplateApp)
+1. **Completed_Project_Setup** :round_pushpin: //Should be Everything you need to begin building out a project
 2. **ExampleProject** :round_pushpin: [View Flowbite Admin Dashboard](https://github.com/AltomDevelopment/Everything-You-Need-For-React-/tree/main/Project%20Setup/ExampleProject/AdminDashboardTailwindTemplateApp)
 3. **React_Hooks** :round_pushpin:
 4. **React_Components** :round_pushpin:
