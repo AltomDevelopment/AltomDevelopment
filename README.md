@@ -26,11 +26,9 @@ I'm Zack, Welcome to My Github
 			
 ### **Add_Ons** :gem:
 			
-1. **ExampleProjectUsingAdd_Ons** :round_pushpin:
-2. **TemplateToBuildYourOwn** :round_pushpin:
-3. **Chat_Bots** :round_pushpin:
-4. **MicroServices** :round_pushpin:
-5. **SignalR_Messaging** :round_pushpin:
+1. **Chat_Bots** :round_pushpin:
+2. **MicroServices** :round_pushpin:
+3. **SignalR_Messaging** :round_pushpin:
 
 ### **RazorPageTemplates** :gem:
             
