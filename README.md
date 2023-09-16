@@ -46,8 +46,7 @@ I'm Zack, Welcome to My Github
 # **Everything You Need For SQL** :rocket:
 ---
 1. **Getting Setup with SQL** :earth_americas: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
-2. **Database Design** :earth_americas: //MOCKUP.md //README.md
-3. **Sample Project** :earth_americas:
+2. **Database Design** :earth_americas: [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
 4. **Example_Database_Project** :round_pushpin: //README.md
 5. **UseFul Resources** :earth_americas: //README.md
    
