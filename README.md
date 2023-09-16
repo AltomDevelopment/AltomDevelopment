@@ -22,14 +22,11 @@ I'm Zack, Welcome to My Github
 ---
 ## **Setup Your Editors** :earth_americas:
 
-### **Visual_Studio_2022** :gem:
-[SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/blob/main/SetupYourEditors/Visual_Studio_2022/README.md.txt)
-### **Visual_Studio_Code** :gem:
-[SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
-### **SQLServer2019_SSMS18** :gem:
-[SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
-### **ListOfUsefulExtensions_AddOns** :gem:
-[View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
+### **Visual_Studio_2022** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/blob/main/SetupYourEditors/Visual_Studio_2022/README.md.txt)
+
+### **Visual_Studio_Code** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
+### **SQLServer2019_SSMS18** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
+### **ListOfUsefulExtensions_AddOns** :gem: [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
 
 ## **ASP.NET Core MVC** :earth_americas:
 
