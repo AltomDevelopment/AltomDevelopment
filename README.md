@@ -58,7 +58,7 @@ I'm Zack, Welcome to My Github
 
 # **Everything You Need For React** :rocket:
 ---
-1. **Getting Setup With React** :earth_americas: //README.md
+1. **Getting Setup With React** :earth_americas: [View Document](https://github.com/AltomDevelopment/Everything-You-Need-For-React-/tree/main/Getting%20Setup%20With%20React)
 2. **UseFul Resources** :earth_americas: //README.md
 
 ## **Project Setup** :earth_americas:
