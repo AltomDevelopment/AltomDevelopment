@@ -92,7 +92,6 @@ I'm Zack, Welcome to My Github
 # **Completed Projects** :rocket:
 ---
 1. **Space_Trader_Project** :earth_americas:
-2. **Python Projects** :earth_americas:
 Will be updating soon...
 
 
