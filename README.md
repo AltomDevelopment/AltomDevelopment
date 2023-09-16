@@ -10,7 +10,7 @@ I'm Zack, Welcome to My Github
 ---
 ## **Setup Your Editors** :earth_americas:
 
-1. **Visual_Studio_2022** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022))
+1. **Visual_Studio_2022** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
 2. **Visual_Studio_Code** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
 3. **SQLServer2019_SSMS18** :gem: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
 4. **ListOfUsefulExtensions_AddOns** :gem: [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
