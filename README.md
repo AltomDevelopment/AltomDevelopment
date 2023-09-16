@@ -45,7 +45,7 @@ I'm Zack, Welcome to My Github
 
 # **Everything You Need For SQL** :rocket:
 ---
-1. **Getting Setup with SQL** :earth_americas: //README.md
+1. **Getting Setup with SQL** :earth_americas: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
 2. **Database Design** :earth_americas: //MOCKUP.md //README.md
 3. **Sample Project** :earth_americas:
 4. **Example_Database_Project** :round_pushpin: //README.md
