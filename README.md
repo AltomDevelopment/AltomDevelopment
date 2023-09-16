@@ -91,6 +91,6 @@ I'm Zack, Welcome to My Github
 # **Completed Projects** :rocket:
 ---
 1. **Space_Trader(MSSA)_Project** :earth_americas: [View Project](https://github.com/AltomDevelopment/Completed_Projects/tree/main/Space_Trader_Project)
-Will be updating soon...
+- Will be adding more projects soon...
 
 
