@@ -7,25 +7,21 @@ I'm Zack, Welcome to My Github
 ### **Repo Structure** 
 
 ### **Developing_With_.NET** :computer:
-
 #### **Setup_Your_Editors** 📁
 - :page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
 - :page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
 - :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
 - :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
-
 #### **.NET_Core_MVC** 📁  
 - :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/Code_First_Database_UsingEntityFramework)
 - :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/UserLogin_UserRegistration_UsingIdentity)
 - :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/CRUD_Web_API)
 - :page_facing_up: **SampleRazorPageTemplate**
 - :page_facing_up: **Template_App**
-- 
 #### **Add_Ons** 📁
 - :page_facing_up: **Chat_Bots** 
 - :page_facing_up: **MicroServices** 
 - :page_facing_up: **SignalR_Messaging** 
-				
 #### **.NET_MUAI** 📁
 - :page_facing_up: **Notes_Overview** //README.md 
 - :page_facing_up: **Template_App** //README.md
