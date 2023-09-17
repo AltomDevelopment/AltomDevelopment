@@ -1,8 +1,10 @@
-I'm Zack, Welcome to My Github
----
-![GithubProfileBanner](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/df590f76-fd8f-45e6-9f51-10070509cd5d)
+![GithubBanner3](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/7daa27ec-9edc-4a25-950b-7a1ee0d6cf7d)
 
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,bootstrap,cs,css,dotnet,html,js,nodejs,postman,powershell,react,sass)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,react,js,cs,bootstrap&perline=3&theme=dark" />
+  </a>
+</p>
 
 ### **Repo Structure** 
 
