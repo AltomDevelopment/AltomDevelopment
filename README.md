@@ -10,10 +10,10 @@
 
 ### **Developing_With_.NET** :computer:
 #### **Setup_Your_Editors** 📁
-- :page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
-- :page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
-- :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
-- :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
+- :page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/Visual_Studio2022_SetupInstructions.md)
+- :page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/SQLServer_SetupInstructions.md)
+- :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)
+- :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)
 #### **.NET_Core_MVC** 📁  
 - :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/Code_First_Database_UsingEntityFramework)
 - :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/UserLogin_UserRegistration_UsingIdentity)
