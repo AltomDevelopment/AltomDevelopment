@@ -4,7 +4,7 @@ I'm Zack, Welcome to My Github
 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,bootstrap,cs,css,dotnet,html,js,nodejs,postman,powershell,react,sass)](https://skillicons.dev)
 
-### **Repo_Contents** 
+### **Repo Structure** 
 
 ### **Everything_You_Need_For_.NET** :computer:
 
