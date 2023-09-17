@@ -15,28 +15,25 @@
 - :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)
 - :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)
 #### **.NET_Core_MVC** 📁  
+- :page_facing_up: **Template_App**
 - :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Code_First_Database_UsingEntityFramework)
 - :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/UserLogin_UserRegistration_UsingIdentity)
 - :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)
-- :page_facing_up: **SampleRazorPageTemplate**
-- :page_facing_up: **Template_App**
 
 #### **.NET_MUAI** 📁
-- :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md) 
 - :page_facing_up: **Template_App** //README.md
+- :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md) 
 
 ### **Developing_With_SQL** :computer:
 - :page_facing_up: **Database_Design** [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) / [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
 - :page_facing_up: **TSQL_Practice_DBScript** [Script To Create the TSQL Database](https://github.com/AltomDevelopment/Developing_With_SQL/blob/main/Create_TSQLV6_DB_Script.sql)
 - :page_facing_up: **Query_Cheat_Sheet** [View Cheat Sheet](https://github.com/AltomDevelopment/Developing_With_SQL/blob/main/T-SQL_Fundamentals_Notes.sql)
-- :page_facing_up: **Helpful_Stored_Procedures** //README.md
 
 ### **Developing_With_React** :computer:
 - :page_facing_up: **Getting_Setup_With_React_Overview** [View Document](https://github.com/AltomDevelopment/Developing_With_React/blob/main/Getting_Setup_With_React_Overview.md)
 - :page_facing_up: **React_Hooks** [React Hook Cheat Sheet](https://flexiple.com/react/react-hooks-cheat-sheet)
 - :page_facing_up: **React_Components** [View Flowbite React Components](https://www.flowbite-react.com/) //They also have Forms
 - :page_facing_up: **APIs** [List of Useful APIS](https://publicapis.dev/)
-- :page_facing_up: **Template_App**
 
 ### **Developing_With_Python** :computer:
 - :page_facing_up: **Python_CheatSheet** [View Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
@@ -49,7 +46,6 @@
 ### **Other_Resources** :computer:
 - :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
 - :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview](https://github.com/AltomDevelopment/Other_Resources/blob/main/.NET_Microservices.md)
-- :page_facing_up: **Useful_Programs** //README.md
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
 
 ### **Completed_Projects** :computer:
