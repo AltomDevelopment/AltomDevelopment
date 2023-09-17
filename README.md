@@ -30,7 +30,7 @@
 
 ### **Developing_With_SQL** :computer:
 - :page_facing_up: **Database_Design** [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) / [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
-- :page_facing_up: **TSQL_Practice_DBScript** //README.md
+- :page_facing_up: **TSQL_Practice_DBScript** [Script To Create the TSQL Database](https://github.com/AltomDevelopment/Developing_With_SQL/blob/main/Create_TSQLV6_DB_Script.sql)
 - :page_facing_up: **Query_Cheat_Sheet** [View Cheat Sheet](https://github.com/AltomDevelopment/Developing_With_SQL/blob/main/T-SQL_Fundamentals_Notes.sql)
 - :page_facing_up: **Helpful_Stored_Procedures** //README.md
 
