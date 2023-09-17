@@ -4,17 +4,17 @@ I'm Zack, Welcome to My Github
 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,bootstrap,cs,css,dotnet,html,js,nodejs,postman,powershell,react,sass)](https://skillicons.dev)
 
-# **Repo Contents** 
+# **Repo_Contents** 
 
-# **Everything You Need For .NET** :computer:
+# **Everything_You_Need_For_.NET** :computer:
 
-## **Setup Your Editors** 📁
-**Visual_Studio_2022** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
-**Visual_Studio_Code** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
-**SQLServer2019_SSMS18** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
-**ListOfUsefulExtensions_AddOns** :page_facing_up: [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
+## **Setup_Your_Editors** 📁
+    **Visual_Studio_2022** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
+    **SQLServer2019_SSMS18** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
+    **Visual_Studio_Code** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
+    **ListOfUsefulExtensions_AddOns** :page_facing_up: [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
 
-## **ASP.NET Core MVC** :card_file_box:
+## **.NET_Core** :card_file_box:
 ### **Project_Setup** 📁
 **Completed_Project_Setup** :page_facing_up:
 **Code_First_Database_UsingEntityFramework** :page_facing_up: [View Setup Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/Code_First_Database_UsingEntityFramework)
@@ -27,17 +27,17 @@ I'm Zack, Welcome to My Github
 **MicroServices** :page_facing_up:
 **SignalR_Messaging** :page_facing_up:
 				
-### **.NET MUAI** 📁
+### **.NET_MUAI** 📁
 **Getting_SetUp** :page_facing_up: //README.md (In-Progress)
-**Useful Resources** :page_facing_up: //README.md
+**Useful_Resources** :page_facing_up: //README.md
 
-# **Everything You Need For SQL** :computer:
+# **Everything_You_Need_For_SQL** :computer:
 
-**Database Design** :page_facing_up: [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) / [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
+**Database_Design** :page_facing_up: [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) / [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
 **Example_Database_Project** :round_pushpin: //README.md
-**UseFul Resources** :page_facing_up: //README.md
+**UseFul_Resources** :page_facing_up: //README.md
 **Query_Cheat_Sheet** :page_facing_up: //README.md
-**Stored Procedures** :page_facing_up: //README.md
+**Stored_Procedures** :page_facing_up: //README.md
 
 # **Everything You Need For React** :computer:
 
