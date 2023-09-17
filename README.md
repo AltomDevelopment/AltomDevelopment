@@ -48,7 +48,7 @@
 
 ### **Other_Resources** :computer:
 - :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
-- :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview] 
+- :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview](https://github.com/AltomDevelopment/Other_Resources/blob/main/.NET_Microservices.md)
 - :page_facing_up: **Useful_Programs** //README.md
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
 
