@@ -7,32 +7,32 @@ I'm Zack, Welcome to My Github
 # **Repo Contents** 
 
 # **Everything You Need For .NET** :computer:
----
-## **Setup Your Editors** :file-folder:
+
+## **Setup Your Editors** 📁
 - **Visual_Studio_2022** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_2022)
 - **Visual_Studio_Code** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/Visual_Studio_Code)
 - **SQLServer2019_SSMS18** :page_facing_up: [SetUp Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/SQLServer_SSMS)
 - **ListOfUsefulExtensions_AddOns** :page_facing_up: [View The List](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/SetupYourEditors/ListOfUsefulExtensions_AddOns)
 
 ## **ASP.NET Core MVC** :card_file_box:
-### **Project_Setup** :file-folder:
+### **Project_Setup** 📁
 - **Completed_Project_Setup** :page_facing_up:
 -  **Code_First_Database_UsingEntityFramework** :page_facing_up: [View Setup Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/Code_First_Database_UsingEntityFramework)
 - **UserLogin_UserRegistration_UsingIdentity** :page_facing_up: [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/UserLogin_UserRegistration_UsingIdentity)
 - **CRUD_Web_API** :page_facing_up: [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/CRUD_Web_API)
 - **SampleRazorPageTemplate** :page_facing_up:
 			
-### **Add_Ons** :file-folder:
+### **Add_Ons** 📁
 - **Chat_Bots** :page_facing_up:
 - **MicroServices** :page_facing_up:
 - **SignalR_Messaging** :page_facing_up:
 				
-### **.NET MUAI** :file-folder:
+### **.NET MUAI** 📁
 - **Getting_SetUp** :page_facing_up: //README.md (In-Progress)
 - **Useful Resources** :page_facing_up: //README.md
 
 # **Everything You Need For SQL** :computer:
----
+
 - **Database Design** :page_facing_up: [Quick Overview](https://www.codecademy.com/learn/fscp-designing-relational-databases/modules/fscp-designing-a-database/cheatsheet) / [Database Design Tool](https://www.devart.com/entitydeveloper/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfvVdvV9mG6sQgvx9hu2RMm-6ydrPoapmA02An-UCdUPFJKNM-WC_URoCpzEQAvD_BwE)
 - **Example_Database_Project** :round_pushpin: //README.md
 - **UseFul Resources** :page_facing_up: //README.md
@@ -40,7 +40,7 @@ I'm Zack, Welcome to My Github
 - **Stored Procedures** :page_facing_up: //README.md
 
 # **Everything You Need For React** :computer:
----
+
 - **Getting Setup With React_Overview** :page_facing_up: [View Document](https://github.com/AltomDevelopment/Everything-You-Need-For-React-/tree/main/Getting%20Setup%20With%20React)
 - **UseFul Resources** :page_facing_up: //README.md
 - **Completed_Project_Setup** :page_facing_up: //Should be Everything you need to begin building out a project
@@ -51,27 +51,22 @@ I'm Zack, Welcome to My Github
     
 
 # **Everything You Need For Python** :computer:
----
 :page_facing_up: //README.md
 
 # **AI_MachineLearning(Coming_Soonish)** :computer:
----
 :page_facing_up: //README.md
 
 # **WorkingWith_CMDLine_Powershell_GitBash** :computer:
----
 - **Useful Commands CommandLine** :page_facing_up: [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20CommandLine)
 - **Useful Commands PowerShell** :page_facing_up: [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20PowerShell)
 - **Useful Commands GitBash** :page_facing_up: [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20GitBash)
 
 # **AddOns_UsefulResources** :computer:
----
 - **Keyboard Shortcuts** :page_facing_up: [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Keyboard%20Shortcuts)
 - **Tools_And_Apps** :page_facing_up: //README.md
 - **Books** :page_facing_up: [View PDFS](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Books)
 
 # **Completed Projects** :computer:
----
 - **Space_Trader(MSSA)_Project** :page_facing_up: [View Project](https://github.com/AltomDevelopment/Completed_Projects/tree/main/Space_Trader_Project)
 - Will be adding more projects soon...
 
