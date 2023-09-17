@@ -20,10 +20,7 @@
 - :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)
 - :page_facing_up: **SampleRazorPageTemplate**
 - :page_facing_up: **Template_App**
-#### **Add_Ons** 📁
-- :page_facing_up: **Chat_Bots** 
-- :page_facing_up: **MicroServices** 
-- :page_facing_up: **SignalR_Messaging** 
+
 #### **.NET_MUAI** 📁
 - :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md) 
 - :page_facing_up: **Template_App** //README.md
@@ -51,6 +48,7 @@
 
 ### **Other_Resources** :computer:
 - :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
+- :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview] 
 - :page_facing_up: **Useful_Programs** //README.md
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
 
