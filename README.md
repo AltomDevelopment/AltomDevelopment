@@ -15,9 +15,9 @@
 - :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)
 - :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)
 #### **.NET_Core_MVC** 📁  
-- :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/Code_First_Database_UsingEntityFramework)
-- :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/UserLogin_UserRegistration_UsingIdentity)
-- :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Everything-You-Need-For-.NET/tree/main/ASP.NETCoreMVC/Project_Setup/CRUD_Web_API)
+- :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Code_First_Database_UsingEntityFramework)
+- :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/UserLogin_UserRegistration_UsingIdentity)
+- :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)
 - :page_facing_up: **SampleRazorPageTemplate**
 - :page_facing_up: **Template_App**
 #### **Add_Ons** 📁
