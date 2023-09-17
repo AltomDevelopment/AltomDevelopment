@@ -45,14 +45,14 @@
 - :page_facing_up: **Python_CheatSheet** [View Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 ### **CommandLine/GitBash/Powershell** :computer:
-- :page_facing_up: **Command_Line_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20CommandLine)
-- :page_facing_up: **GitBash_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20GitBash)
-- :page_facing_up: **Powershell_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/WorkingWith_CMDLine_Powershell_GitBash/tree/main/Useful%20Commands%20PowerShell)
+- :page_facing_up: **Command_Line_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/CommandLine_GitBash_Powershell/blob/main/Command_Line_CheatSheet.md)
+- :page_facing_up: **GitBash_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/CommandLine_GitBash_Powershell/blob/main/GitBash_CheatSheet.md)
+- :page_facing_up: **Powershell_CheatSheet** [View Cheat Sheet](https://github.com/AltomDevelopment/CommandLine_GitBash_Powershell/blob/main/Powershell_CheatSheet.md)
 
 ### **Other_Resources** :computer:
-- :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Keyboard%20Shortcuts)
+- :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
 - :page_facing_up: **Useful_Programs** //README.md
-- :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/AddOns_UsefulResources/tree/main/Books)
+- :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
 
 ### **Completed_Projects** :computer:
 - :page_facing_up: **Space_Trader(MSSA)_Project** [View Project](https://github.com/AltomDevelopment/Completed_Projects/tree/main/Space_Trader_Project)
