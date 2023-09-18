@@ -6,7 +6,10 @@
   </a>
 </p>
 
-<script type="text/javascript" align="center" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="AltomDevelopment" data-color="#151414" data-emoji="☕"  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/AltomDevelopment" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
 
 
 
