@@ -21,7 +21,6 @@
 - :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)
 
 #### **.NET_MUAI** 📁
-- :page_facing_up: **Template_App** //README.md
 - :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md) 
 
 ### **Developing_With_SQL** :computer:
