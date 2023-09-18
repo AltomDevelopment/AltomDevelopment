@@ -15,7 +15,7 @@
 - :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)
 - :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)
 #### **.NET_Core_MVC** 📁  
-- :page_facing_up: **Template_App**
+- :page_facing_up: **Template_App** [View_MVC_StarterTemplate](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Template_App/MVC_Template)
 - :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Code_First_Database_UsingEntityFramework)
 - :page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/UserLogin_UserRegistration_UsingIdentity)
 - :page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)
