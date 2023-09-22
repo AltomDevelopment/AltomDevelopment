@@ -15,6 +15,9 @@
 
 ### **Repo Structure** 
 
+### View Completed Projects
+[View Completed Projects](https://github.com/AltomDevelopment/Completed_Projects/tree/main)
+
 ### **Developing_With_.NET** :computer:
 #### **Setup_Your_Editors** 📁
 - :page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/Visual_Studio2022_SetupInstructions.md)
@@ -53,9 +56,3 @@
 - :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
 - :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview](https://github.com/AltomDevelopment/Other_Resources/blob/main/.NET_Microservices.md)
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
-
-### **Completed_Projects** :computer:
-- :page_facing_up: **Space_Trader(MSSA)_Project** [View Project](https://github.com/AltomDevelopment/Completed_Projects/tree/main/Space_Trader_Project)
-- Will be adding more projects soon...
-
-
