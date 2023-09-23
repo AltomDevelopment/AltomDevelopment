@@ -40,6 +40,7 @@
 
 ### **Developing_With_React** :computer:
 - :page_facing_up: **Getting_Setup_With_React_Overview** [View Document](https://github.com/AltomDevelopment/Developing_With_React/blob/main/Getting_Setup_With_React_Overview.md)
+- :page_facing_up: **React_Website_Template** [View Template](https://github.com/AltomDevelopment/Developing_With_React/tree/main/React_Template/CompleteTailwindTemplateApp)
 - :page_facing_up: **React_Hooks** [React Hook Cheat Sheet](https://flexiple.com/react/react-hooks-cheat-sheet)
 - :page_facing_up: **React_Components** [View Flowbite React Components](https://www.flowbite-react.com/) //They also have Forms
 - :page_facing_up: **APIs** [List of Useful APIS](https://publicapis.dev/)
