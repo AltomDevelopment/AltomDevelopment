@@ -17,6 +17,8 @@
 
 ### View Completed Projects
 [View Completed Projects](https://github.com/AltomDevelopment/Completed_Projects/tree/main)
+### View InProgress Projects
+[View InProgress Projects](https://github.com/AltomDevelopment/AppsInProgress_Other/tree/master)
 
 ### **Developing_With_.NET** :computer:
 #### **Setup_Your_Editors** 📁
