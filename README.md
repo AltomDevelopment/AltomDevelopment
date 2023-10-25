@@ -60,4 +60,5 @@
 
 ![Altoms GitHub stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AltomDevelopment&repo=InProgress)](https://github.com/AltomDevelopment/InProgress)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltomDevelopment&layout=compact)
+
