@@ -10,6 +10,7 @@
   <a href="https://www.buymeacoffee.com/AltomDevelopment" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
+<div align="center">
 ### **Repo Structure** 
 
 ### View Completed Projects
@@ -62,6 +63,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltomDevelopment&layout=compact)
 
-![image](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/cc806474-f171-487d-a185-95a84eb5267e)
-
+![software-software-development](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/7a34690b-6d1c-449c-9bd6-179999703498)
+</div>
 
