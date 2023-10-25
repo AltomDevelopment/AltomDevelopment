@@ -10,9 +10,10 @@
   <a href="https://www.buymeacoffee.com/AltomDevelopment" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-![software-software-development](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/7a34690b-6d1c-449c-9bd6-179999703498)
-
 <div align="center">
+
+![software-software-development](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/7a34690b-6d1c-449c-9bd6-179999703498)
+  
 ### **Repo Structure** 
 
 ### View Completed Projects
@@ -22,8 +23,8 @@
 
 ### **Developing_With_.NET** :computer:
 #### **Setup_Your_Editors** 📁
- :page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/Visual_Studio2022_SetupInstructions.md)
- :page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/SQLServer_SetupInstructions.md)
+:page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/Visual_Studio2022_SetupInstructions.md)  
+:page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/SQLServer_SetupInstructions.md)
 - :page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)
 - :page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)
 #### **.NET_Core_MVC** 📁  
