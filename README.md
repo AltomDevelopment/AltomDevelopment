@@ -10,9 +10,6 @@
   <a href="https://www.buymeacoffee.com/AltomDevelopment" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-![Altoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=radical)
-
-
 ### **Repo Structure** 
 
 ### View Completed Projects
@@ -59,3 +56,6 @@
 - :page_facing_up: **VisualStudio_Keyboard_Shortcuts** [View Visual Studio Keyboard Shortcuts](https://github.com/AltomDevelopment/Other_Resources/blob/main/VisualStudio_Keyboard_Shortcuts.md)
 - :page_facing_up: **.NET_Microservices_Explained** [.NET_Microservices_Overview](https://github.com/AltomDevelopment/Other_Resources/blob/main/.NET_Microservices.md)
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
+
+
+![Altoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=radical)
