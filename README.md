@@ -10,7 +10,7 @@
   <a href="https://www.buymeacoffee.com/AltomDevelopment" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-![Altoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment_icons=true&theme=radical)
+![Altoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=radical)
 
 
 ### **Repo Structure** 
