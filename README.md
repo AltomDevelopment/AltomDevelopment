@@ -62,8 +62,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltomDevelopment&layout=compact)
 
-<p align="center">
-    <img src="https://giphy.com/gifs/pudgypenguins-glitch-matrix-cyber-8dPbkqUb2p5XTvIXLx" />
-</p>
+
+<img src="https://giphy.com/gifs/pudgypenguins-glitch-matrix-cyber-8dPbkqUb2p5XTvIXLx" />
+
 
 
