@@ -62,5 +62,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltomDevelopment&layout=compact)
 
-![image](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/db9881c6-2f38-4679-8330-ee555d496ff6)
+![image](https://github.com/AltomDevelopment/AltomDevelopment/assets/42178688/cc806474-f171-487d-a185-95a84eb5267e)
+
 
