@@ -58,4 +58,4 @@
 - :page_facing_up: **Books** [View PDFS](https://github.com/AltomDevelopment/Other_Resources/tree/main/Books)
 
 
-![Altoms GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=radical)
+![Altoms GitHub stats](https://github-readme-stats.vercel.app/api?username=AltomDevelopment&show_icons=true&theme=transparent)
