@@ -28,8 +28,6 @@
 #### **.NET_Core_MVC** 📁  
 :page_facing_up: **Template_App** [View_MVC_StarterTemplate](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/Template_App/MVC_Template)  
 :page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/Code_First_Database_UsingEntityFramework)  
-:page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/UserLogin_UserRegistration_UsingIdentity)  
-:page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/CRUD_Web_API)  
 
 #### **.NET_MUAI** 📁
 :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md)   
