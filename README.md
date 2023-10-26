@@ -18,20 +18,18 @@
 
 ### View Completed Projects
 [View Completed Projects](https://github.com/AltomDevelopment/Completed_Projects/tree/main)
-### View InProgress Projects
-[View InProgress Projects](https://github.com/AltomDevelopment/AppsInProgress_Other/tree/master)
 
 ### **Developing_With_.NET** :computer:
 #### **Setup_Your_Editors** 📁
-:page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/Visual_Studio2022_SetupInstructions.md)  
-:page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/SQLServer_SetupInstructions.md)  
-:page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCode_SetupInstructions.md)  
-:page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Setup_Your_Editors/VSCodeEtensions.md)  
+:page_facing_up: **Visual_Studio_2022** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Editor_Setup/Visual_Studio2022_SetupInstructions.md)  
+:page_facing_up: **SQLServer2019_SSMS18** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Editor_Setup/SQLServer_SetupInstructions.md)  
+:page_facing_up: **Visual_Studio_Code** [SetUp Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Editor_Setup/VSCode_SetupInstructions.md)  
+:page_facing_up: **ListOfUsefulExtensions_AddOns** [View The List](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/Editor_Setup/VSCodeEtensions.md)  
 #### **.NET_Core_MVC** 📁  
-:page_facing_up: **Template_App** [View_MVC_StarterTemplate](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Template_App/MVC_Template)  
-:page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/Code_First_Database_UsingEntityFramework)  
-:page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/UserLogin_UserRegistration_UsingIdentity)  
-:page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_Core_MVC/CRUD_Web_API)  
+:page_facing_up: **Template_App** [View_MVC_StarterTemplate](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/Template_App/MVC_Template)  
+:page_facing_up: **Code_First_Database_UsingEntityFramework** [View Setup Instructions](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/Code_First_Database_UsingEntityFramework)  
+:page_facing_up: **UserLogin_UserRegistration_UsingIdentity** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/UserLogin_UserRegistration_UsingIdentity)  
+:page_facing_up: **CRUD_Web_API** [View Project](https://github.com/AltomDevelopment/Developing_With_.NET/tree/main/.NET_MVC/CRUD_Web_API)  
 
 #### **.NET_MUAI** 📁
 :page_facing_up: **Notes_Overview** [MAUI Overview](https://github.com/AltomDevelopment/Developing_With_.NET/blob/main/.NET_MAUI/Notes_Overview.md)   
