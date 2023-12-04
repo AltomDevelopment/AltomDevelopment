@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,react,js,py,django,nodejs&perline=3&theme=dark" />
-    <p> and more </p>
   </a>
 </p>
 
